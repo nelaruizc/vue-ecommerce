@@ -1,16 +1,16 @@
 <template>
-  <NavComp/>
+  <NavBar/>
   <nav>
   </nav>
   <router-view/>
 </template>
 
 <script lang="ts">
-import NavComp from "@/components/NavComp.vue"
+import NavBar from "@/components/NavBar.vue"
 export default {
   name: "App",
   components: {
-    NavComp
+    NavBar
   }
 }
 </script>
