@@ -75,12 +75,12 @@
 			margin: 4em auto;
 		}
 		img {
-			margin: 0;
-			margin-top: 2.6em;
+			margin: 1em;
+			margin-top: 1.6em;
 		}
     .custom-card {
       margin: 0;
-			margin-top: 6em;
+			margin-top: 6.8em;
     }
 		h2 {
       color: #545454;;

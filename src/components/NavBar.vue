@@ -5,10 +5,6 @@
             <router-link to="/" class="nav-link active" aria-current="page">
                 <span class="material-icons">home</span>
             </router-link>
-               
-            <router-link to="/login" class="nav-link active" aria-current="page">
-                <span class="material-icons">login</span>
-            </router-link>
         
             <router-link to="/store" class="nav-link active" aria-current="page">
                 <span class="material-icons">storefront</span>
