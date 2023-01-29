@@ -16,13 +16,13 @@
 							<input
 								type="email"
 								class="form-control"
-								placeholder="Dirección de e-mail" />
+								placeholder="✉ Dirección de e-mail"/>
 						</div>
 						<div class="mb-3 mt-2">
 							<input
 								type="password"
 								class="form-control"
-								placeholder="Contraseña" />
+								placeholder="🔒 Contraseña" />
 						</div>
 					</form>
 				</custom-card>
@@ -70,6 +70,9 @@
 		max-width: 398px;
 		margin-top: 2.6em;
 	}
+  h2 {
+    color: #545454;
+  }
 	@media (min-width: 992px) {
 		.home {
 			margin: 4em auto;
@@ -83,7 +86,7 @@
 			margin-top: 6.8em;
     }
 		h2 {
-      color: #545454;;
+      color: #545454;
 			margin: 0;
 			margin-top: 0.8em;
 			margin-left: 0.8em;

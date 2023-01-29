@@ -1,17 +1,17 @@
 <template>
      <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container justify-content-evenly d-flex align-items-center">
+        <div class="container justify-content-evenly d-flex align-items-center text-center">
 
             <router-link to="/" class="nav-link active" aria-current="page">
-                <span class="material-icons">home</span>
+              <span class="material-icons">home</span>
             </router-link>
         
             <router-link to="/store" class="nav-link active" aria-current="page">
-                <span class="material-icons">storefront</span>
+              <span class="material-icons">storefront</span>
             </router-link>
         
             <router-link to="/profile" class="nav-link active" aria-current="page">
-                <span class="material-icons">person</span>
+              <span class="material-icons">person</span>
             </router-link>
         </div>
     </nav>
